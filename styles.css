@@ -57,7 +57,7 @@
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #fff000;
+  border-top: 4px solid #009999;
 }
 
 .footer a:not(.btn--remix):link,
