@@ -38,7 +38,7 @@
   border: 1px solid #009999;
   box-sizing: border-box;
   border-radius: 4px;
-  text-decoration: none;
+  text-decoration: #000000;
   color: #009999;
   white-space: nowrap;
   margin-left: auto;
@@ -83,13 +83,12 @@ a:not(.btn--remix):visited {
   padding: 0 1rem;
 }body {
   font-family: HK Grotesk;
-  background-color: var(#fff000);
+  background-color: var(#009999);
   background-color: var(#009999);
 }
 @@ -114,7 +114,7 @@ body {
 
 .title {
-  color:(#2800f0);
   color:(#6c5ac6);
   font-family: HK Grotesk;
   font-style: normal;
@@ -118,7 +117,7 @@ input {
 }
 
 h2 {
-  color: #ffff00;
+  color: #009999;
 }
 .illustration:active {
   transform: translateY(5px);
