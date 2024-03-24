@@ -33,8 +33,8 @@
   font-weight: 500;
   height: 2.75rem;
   align-items: center;
-  cursor: pointer;
-  background: #FFFFFF;
+  cursor: none;
+  background: #009999;
   border: 1px solid #009999;
   box-sizing: border-box;
   border-radius: 4px;
