@@ -12,9 +12,6 @@
 * {
   box-sizing: border-box;
 }
-[hidden] {
-  display: none !important;
-}
 
 @font-face {
   font-family: HK Grotesk;
@@ -70,8 +67,8 @@ a:not(.btn--remix):visited {
   font-weight: normal;
   font-size: 1.1rem;
   color: #009999;
-  text-decoration: none;
-  border-style: none;
+  text-decoration: #000000;
+  border-style: #009999;
 }
 .footer a:hover {
   background: var(#009999);
