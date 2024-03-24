@@ -1,7 +1,7 @@
 :root {
-  --color-bg: #009909;
-  --color-text-main: #090009;
-  --color-primary: #009999;
+  --color-bg: #000000;
+  --color-text-main: #000000;
+  --color-primary: #000000;
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
