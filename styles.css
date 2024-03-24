@@ -1,5 +1,5 @@
 :root {
-  --color-bg: #000000;
+  --color-bg: #009999;
   --color-text-main: #000000;
   --color-primary: #000000;
   --wrapper-height: 87vh;
@@ -34,7 +34,7 @@
   height: 2.75rem;
   align-items: center;
   cursor: none;
-  background: #009999;
+  background-colour: #009999;
   border: 1px solid #009999;
   box-sizing: border-box;
   border-radius: 4px;
@@ -83,7 +83,6 @@ a:not(.btn--remix):visited {
   padding: 0 1rem;
 }body {
   font-family: HK Grotesk;
-  background-color: var(#009999);
   background-color: var(#009999);
 }
 @@ -114,7 +114,7 @@ body {
